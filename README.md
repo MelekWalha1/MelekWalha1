@@ -1,16 +1,15 @@
-### Hi there 👋
+ 👋 Hi, I'm Melek Walha.  
+🔬 I'm a Multidisciplinary Engineering Student.  
+🤖 Interested in Robotics, Software Development, Computer Vision, and Embedded Systems.   
+🖥️ My research areas include:  
+&emsp; &emsp;Design and Control of autonomous Driving  Systems   
+&emsp; &emsp;Embedded Systems.       
+&emsp; &emsp;Computer Vision.     
+🚀 Join me on my engineering journey!  
 
-<!--
-**MelekWalha1/MelekWalha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ 
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MelekWalha1&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MelekWalha1&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MelekWalha1&theme=github)
